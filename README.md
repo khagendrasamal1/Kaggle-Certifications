@@ -8,6 +8,9 @@ This repository contains all the certifications I have earned from Kaggle, a pla
 
 Here you will find certificates related to:
 1. Intro to Programming
+<img src="./Khagendra Samal - Intro to Programming.png" alt="50-Day LeetCode Badge" width="500"/>
+2. Python
+<img src="./Khagendra Samal - Python.png" alt="50-Day LeetCode Badge" width="500"/>
 
 ## 🔗 Useful Links
 
